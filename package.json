@@ -23,7 +23,6 @@
     "react-datetime-picker": "^3.5.0",
     "react-dom": "^18.3.1",
     "react-image-gallery": "^1.2.8",
-    "react-photo-gallery": "^latest-version-compatible-with-react-18", 
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-spinners": "^0.12.0",
